@@ -2,6 +2,10 @@
 
 A simple task management app built with React and Tailwind CSS.
 
+## Live Demo
+
+🚀 **[View Live Demo](https://glistening-hummingbird-28f0db.netlify.app/)**
+
 ## Getting Started
 
 ```bash
