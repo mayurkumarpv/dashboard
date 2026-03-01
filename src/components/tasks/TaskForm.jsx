@@ -337,11 +337,6 @@ export default function TaskForm({ existingTask, onClose }) {
             Cancel
           </button>
         </div>
-
-        {/* Keyboard Shortcuts Help */}
-        <div className="mt-4 text-xs text-gray-500">
-          <p>💡 Press <kbd className="px-1 py-0.5 bg-gray-100 border border-gray-300 rounded text-xs">Enter</kbd> to save, <kbd className="px-1 py-0.5 bg-gray-100 border border-gray-300 rounded text-xs">Esc</kbd> to cancel</p>
-        </div>
       </form>
     </div>
   );
