@@ -13,3 +13,9 @@ export const SORT_ORDER = {
   ASC: "asc",
   DESC: "desc",
 };
+
+export const taskStatusMap = {
+  [PENDING]: "Pending",
+  [IN_PROGRESS]: "In Progress",
+  [COMPLETED]: "Completed",
+}
